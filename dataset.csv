@@ -1,0 +1,81 @@
+hotel_name,air_conditioning,breakfast,cleanliness,excellent_ratings,free_parking,free_wifi,hotel_class,hotel_style,house_keeping,iron,location,number_reviews,overall_rating,pool,private_balcony,refrigerator,restaurant,room_service,service,taxi_service,tv,value
+Haley's Hotel and Restaurant,No,YES,4,180,YES,YES,3,"Residential Neighbourhood,Business",YES,YES,4.5,536,4,No,No,No,YES,YES,4,No,YES,4
+Mansio Suites Basinghall,No,No,5,10,No,YES,4,Nil1,No,YES,5,18,4.5,No,No,YES,No,No,4.5,No,YES,4.5
+The Kingston Hotel,No,No,3,75,YES,YES,3,Centrally Located,No,No,4,365,3,No,No,No,No,No,3,No,YES,3
+Quay Apartments Leeds,No,No,4,46,No,YES,4,"Centrally Located, Modern",YES,YES,4,104,4,No,YES,YES,No,No,4,No,YES,3.5
+Premier Inn Leeds City Centre (Wellington Street) Hotel,YES,No,4.5,669,No,No,3,"Quiet,Family",YES,No,4,"1,530",4,No,No,No,No,No,4.5,No,YES,4.5
+Mercure Leeds Parkway,No,No,4,310,YES,YES,3,Nil2,YES,No,4,"1,238",3.5,YES,No,No,YES,YES,4,No,YES,4
+Quebecs Luxury Apartments,YES,No,5,265,No,YES,5,"Centrally Located,Trendy",YES,YES,5,331,4.5,No,No,YES,No,No,4.5,No,YES,4.5
+Holiday Inn Express Leeds East,No,YES,4.5,209,YES,YES,3,"Family,Quiet",YES,No,4,557,4,No,No,No,No,No,4.5,No,YES,4.5
+The Wrens Hotel,No,No,3,31,No,No,3,Centrally Located,No,No,4.5,66,4,No,No,No,No,No,4,No,YES,4
+Premier Inn Leeds East hotel,No,No,4.5,387,YES,No,3,"Family,Modern",YES,No,4.5,880,4,No,No,No,YES,No,4.5,No,YES,4.5
+Roomzzz Aparthotel Leeds City West,No,YES,4.5,360,No,YES,4,"Modern,Business",YES,YES,4,686,4.5,No,No,YES,No,No,4.5,No,YES,4.5
+Mercure Wetherby Hotel,No,No,3.5,186,YES,YES,3,Nil3,YES,YES,4,"1,068",3.5,No,No,No,YES,YES,3.5,No,YES,3.5
+Britannia Leeds Hotel,No,No,3,145,YES,No,3,Nil4,YES,YES,3,"1,206",2.5,No,No,No,YES,YES,3,No,YES,3
+Holiday Inn Leeds Garforth,No,No,3.5,211,YES,YES,3,Nil5,YES,No,4,993,3.5,YES,No,No,YES,YES,4,No,YES,3.5
+Holiday Inn Express Leeds Armouries,YES,YES,4,197,No,YES,3,Modern,YES,No,4,991,3.5,No,No,No,YES,No,4,No,YES,4
+Corn Mill Lodge Hotel,No,No,4.5,252,YES,YES,3,"Family,Mid-range",No,YES,4,659,4,No,No,No,YES,No,4,No,YES,4.5
+Peasehill House,No,No,4,112,YES,YES,3,"Family,Business",No,No,4,217,4,No,No,No,No,No,4.5,No,YES,4
+Weetwood Hall Estate,No,No,4.5,401,YES,YES,4,"Mid-range,Business",YES,No,4,"1,136",4,No,No,No,YES,YES,4,No,YES,4
+Willow Cottage,No,YES,5,438,YES,YES,4,Great View,YES,No,4.5,480,5,No,No,No,No,No,5,No,YES,5
+Best Western Plus Milford Hotel,YES,No,5,935,YES,YES,3.5,"Business,Quiet",No,No,4,"1,327",4.5,No,No,No,YES,YES,4.5,No,YES,4.5
+The Chambers Park Place,YES,No,5,535,No,YES,4,"City View,Charming",YES,YES,5,582,5,No,YES,YES,No,No,5,No,YES,4.5
+Mercure Leeds Centre Hotel,YES,No,4.5,55,No,YES,4,"Mid-range,Boutique",YES,No,4.5,159,3.5,No,No,YES,No,YES,4,No,YES,3.5
+Roomzzz Aparthotel Leeds City,YES,YES,4.5,449,No,YES,4,"City View,Modern",YES,YES,5,688,4.5,No,No,YES,No,No,4.5,No,YES,4.5
+Holiday Inn Express Leeds City Centre,YES,YES,4.5,255,No,YES,3,"Family,Modern",YES,No,3.5,770,4,No,No,No,YES,No,4,No,YES,4
+Ascot Grange Hotel,No,No,4,178,YES,YES,2,Business,YES,No,4.5,552,4,No,No,No,YES,No,4,No,YES,4
+Headingley Lodge,No,No,4,164,YES,YES,4,Great View,No,No,4.5,427,4,No,No,YES,No,No,4,No,YES,4
+KSpace Waterloo Court Apartments,No,No,4.5,36,No,YES,4,"Centrally Located,Business",No,No,4.5,61,4.5,No,No,YES,No,No,4.5,No,No,4.5
+The Old Vicarage Hotel,No,No,1.5,8,YES,No,3,Budget,No,No,2.5,212,1.5,No,No,No,No,No,2,No,YES,2
+Swan & Talbot,No,YES,2,12,YES,YES,3,Nil6,No,YES,4,28,3.5,No,No,No,YES,No,4,No,YES,5
+Premier Inn Leeds City Centre (Whitehall Road) hotel,YES,No,4.5,421,No,No,3,"Quiet,Family",YES,YES,4.5,623,4.5,No,No,No,YES,No,4.5,No,YES,4.5
+Art Hostel,No,YES,4.5,13,No,YES,2,Centrally Located,No,No,5,32,4,No,No,No,No,No,4.5,No,No,3.5
+Mansio Suites Headrow,No,No,5,127,No,YES,5,"Modern,Romantic",No,YES,5,178,4.5,No,No,YES,No,No,4.5,No,YES,5
+Glengarth Hotel,No,YES,4,16,YES,YES,3,Budget,No,No,4,96,3.5,No,No,No,No,No,4,No,No,4
+The Avenue,No,No,3.5,38,YES,YES,2,Budget,No,No,3.5,164,3,No,No,No,YES,No,4,No,YES,3.5
+High Bank Hotel,No,No,3.5,15,YES,YES,2,Budget,No,No,3.5,134,3,No,No,No,No,No,3.5,No,YES,3.5
+Boundary Hotel,No,No,2.5,28,YES,YES,3,Budget,No,No,3.5,174,2.5,No,No,No,No,No,3.5,No,YES,2.5
+42 The Calls Hotel,No,No,4.5,371,No,YES,4,"Quirky Hotels,Great View",No,No,4.5,968,4,No,No,No,No,YES,4,No,YES,4
+Briggate Boutique,No,No,3,20,No,YES,3,Nil7,No,YES,3.5,61,3,No,No,No,No,No,4,No,YES,3.5
+The Harewood Arms Hotel,No,YES,4,90,YES,YES,3,Quiet,No,No,4,324,3.5,No,No,No,YES,No,3.5,No,No,3.5
+Premier Inn Leeds City Centre (Leeds Arena) Hotel,No,No,4.5,"1,280",No,YES,3,"Family,Modern",No,No,4.5,"2,177",4.5,No,No,No,YES,No,4.5,No,YES,4.5
+The White Swan Hotel,No,No,5,130,No,YES,3,Nil8,YES,No,4.5,206,4.5,No,No,No,YES,No,4.5,No,YES,4.5
+Premier Inn Leeds City (Elland Road) hotel,YES,No,4.5,585,YES,No,3,"Family,Modern",YES,No,4,"1,193",4,No,No,No,YES,No,4.5,No,YES,4.5
+The Black Horse Hotel,No,YES,4.5,76,YES,YES,3,Charming,No,No,4.5,163,4,No,No,No,YES,No,4.5,No,YES,4
+The Butlers Hotel,No,No,3,33,YES,YES,3,Budget,No,No,4,211,3,No,No,No,No,No,3,No,YES,3
+The Hopper Lane Hotel,No,YES,4.5,170,YES,YES,3,"Historic Hotel,Charming",No,No,4.5,250,4.5,No,No,No,YES,No,4.5,No,YES,4.5
+Travelodge Leeds Colton,No,No,4.5,171,YES,No,2,"Budget,Family",No,No,4.5,359,4,No,No,No,No,No,4,No,YES,4.5
+The Met Hotel Leeds,No,No,3.5,361,No,YES,4,"Classic,Mid-range",No,YES,4.5,"1,914",3.5,No,No,No,YES,YES,3.5,No,YES,3.5
+ibis Leeds Centre Marlborough Street Hotel,YES,No,4.5,396,No,YES,2,"Modern,Business",YES,No,4,"1,541",4,No,No,No,YES,No,4,No,YES,4
+Leeds Marriott Hotel,YES,No,4.5,"1,019",No,No,4,"Centrally Located,Business",YES,No,4.5,"2,586",4,No,No,No,YES,YES,4.5,No,YES,4
+Quebecs,YES,No,4.5,705,No,YES,4,"Historic Hotel,Classic",YES,YES,4.5,"1,318",4.5,No,No,No,No,YES,4.5,No,YES,4
+Discovery Inn Leeds,No,No,3.5,264,No,YES,2,"Budget,Centrally Located",No,No,4.5,"1,262",3.5,No,No,No,No,No,4,No,YES,4
+easyHotel Leeds City Centre,YES,No,4.5,94,No,No,3,Nil9,No,No,5,187,4,No,No,No,No,No,4.5,No,YES,4
+Days Inn by Wyndham Wetherby,No,No,4.5,"1,049",YES,YES,3,"Modern,Business",No,No,4.5,"2,059",4.5,No,No,No,No,No,4.5,No,YES,4.5
+Travelodge Leeds Bradford Airport,No,No,4.5,297,No,No,2.5,"Budget,Quiet",No,No,4.5,654,4,No,No,No,No,No,4.5,No,YES,4.5
+Travelodge Leeds Central Vicar Lane Hotel,No,No,4.5,70,No,No,3,"Budget,Centrally Located",No,No,4.5,119,4,No,No,No,YES,No,4.5,No,YES,4.5
+Village Hotel Leeds South,YES,No,4.5,"1,103",No,YES,3,"Family,Modern",YES,No,4,"2,764",4,YES,No,No,YES,YES,4,No,YES,4
+Hilton Leeds City,YES,No,4,733,No,YES,4,"Mid-range,Business",YES,No,4.5,"2,803",3.5,YES,No,No,YES,YES,4,No,YES,3.5
+Travelodge Leeds Central,No,No,4.5,495,No,No,2.5,"Budget,Centrally Located",No,No,4.5,"1,163",4,No,No,No,YES,No,4.5,No,YES,4.5
+Hotel ibis budget Leeds Centre,YES,No,4,326,No,YES,2,"Budget,Centrally Located",YES,No,4,"1,634",3.5,No,No,No,No,No,3.5,No,YES,4
+Novotel Leeds Centre Hotel,No,No,4.5,"1,073",No,YES,4,"Green,Modern",YES,YES,4.5,"2,568",4,No,No,YES,YES,YES,4.5,No,YES,4
+Thorpe Park Hotel & Spa,No,No,4.5,938,YES,YES,4,"Business,Charming",YES,No,4,"1,459",4.5,YES,No,No,YES,YES,4.5,No,YES,4.5
+Jurys Inn Leeds,YES,No,4.5,"1,290",No,YES,4,"Business,Modern",YES,No,4.5,"2,961",4,No,No,No,YES,YES,4.5,No,YES,4
+Clayton Hotel Leeds,No,No,4.5,"1,054",No,YES,4,"Mid-range,Family",YES,YES,4,"2,198",4,No,No,No,YES,YES,4.5,No,YES,4
+Park Plaza Leeds,YES,No,4,"1,339",No,YES,4,"Centrally Located,Mid-range",YES,YES,4.5,"3,819",3.5,No,No,No,YES,YES,4,No,YES,4
+Crowne Plaza Leeds,YES,No,4.5,942,No,YES,4,"Family,Mid-range",YES,YES,4,"2,130",4,YES,No,YES,YES,YES,4.5,No,YES,4
+Village Hotel Leeds North,No,No,4,957,No,YES,3,Family,YES,YES,4,"3,673",3.5,No,No,No,YES,YES,4,No,YES,3.5
+Ibis Styles Leeds City Centre Arena,YES,YES,4.5,301,No,YES,3,"Quiet,Trendy",YES,No,4.5,579,4.5,No,No,No,YES,No,4.5,No,YES,4.5
+The Queens Hotel - Leeds,YES,No,4.5,"1,936",No,YES,4,"Art Deco Style,Historic Hotel",YES,YES,5,"4,151",4,No,No,YES,YES,YES,4.5,No,YES,4
+"Radisson Blu Hotel, Leeds City Centre",YES,No,4.5,"1,111",No,YES,4,"Green,Business",YES,No,4.5,"2,575",4,No,No,YES,YES,YES,4,No,YES,4
+Cosmopolitan Hotel,No,No,4,763,No,YES,3,"Centrally Located,Business",YES,YES,4.5,"1,947",4,No,No,No,YES,YES,4.5,No,YES,4
+Malmaison Leeds,YES,No,4.5,"1,205",No,YES,4,"Charming,Romantic",YES,YES,4.5,"2,292",4.5,No,No,YES,YES,YES,4.5,No,YES,4
+Doubletree by Hilton Hotel Leeds City Centre,YES,No,4.5,"2,569",No,YES,4,"Great View,Mid-range",YES,YES,4.5,"4,977",4.5,No,No,YES,YES,YES,4.5,No,YES,4
+Dakota Leeds,YES,No,5,"1,231",No,YES,3,"Trendy,Business",YES,YES,5,"1,393",5,No,No,No,YES,YES,5,No,YES,4.5
+Opal 1 & 2,No,No,1,0,No,No,2,Budget,No,No,1,4,2,No,No,YES,YES,No,1,No,No,1
+Vista Serviced Apartments,No,No,3.5,4,No,YES,2,Modern,No,No,4,6,4,No,No,No,No,No,4,No,No,4
+University of Leeds - Storm Jameson Court,No,No,4,10,No,YES,4,Nil10,No,No,4,30,3.5,YES,No,No,No,No,4,No,No,3.5
+Wheelgate Guest House,No,No,2,3,YES,No,3,Nil11,No,No,3,63,2,No,No,No,No,No,2,No,No,2
+Hillcroft Barn,No,No,5,72,YES,YES,3,Centrally Located,No,No,4.5,90,5,No,No,YES,No,YES,4.5,No,No,4.5
+The Midland Hotel,No,YES,4.5,123,YES,YES,3,Family,No,No,4.5,217,4,No,No,No,YES,No,4.5,No,YES,4.5
+Half Moon Inn,No,No,4,33,No,YES,3,Nil12,No,No,4,93,3.5,No,No,No,YES,YES,4,No,No,3.5
